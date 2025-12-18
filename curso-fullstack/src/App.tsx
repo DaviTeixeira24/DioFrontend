@@ -1,7 +1,6 @@
-import { Container, Flex } from "@chakra-ui/react";
+import { Container } from "@chakra-ui/react";
 import { Layout } from "./components/Layout";
 import LoginCard from "./components/LoginCard/LoginCard";
-
 function App() {
   return (
     <Layout>
