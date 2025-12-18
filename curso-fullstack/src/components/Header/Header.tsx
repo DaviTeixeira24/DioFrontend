@@ -6,7 +6,7 @@ function Header() {
       <Text
         fontSize="5xl"
         fontWeight="extrabold"
-        color="black"
+        color="gray.800"
         letterSpacing="wide"
       >
         DioBank
