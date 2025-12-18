@@ -1,0 +1,4 @@
+const conta = {
+  email: " ",
+  senha: "",
+};
